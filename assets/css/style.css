@@ -264,8 +264,8 @@ h1, h2, h3, h4, h5, h6 {
   height: 100vh;
   background: url("../img/hero-bg.jpg") top right no-repeat;
   background-size: cover;
-  position: static;
-}
+  top: -25px;
+  position: relative;
 
 @media (min-width: 992px) {
   #hero {
