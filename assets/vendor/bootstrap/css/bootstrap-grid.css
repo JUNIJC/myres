@@ -759,6 +759,7 @@
   .col-lg-4 {
     flex: 0 0 auto;
     width: 33.3333333333%;
+    padding-left: 45%;
   }
 
   .col-lg-5 {
