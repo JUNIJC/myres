@@ -264,7 +264,6 @@ h1, h2, h3, h4, h5, h6 {
   height: 100vh;
   background: url("../img/hero-bg.jpg") top right no-repeat;
   background-size: cover;
-  top: -25px;
   position: relative;
 
 @media (min-width: 992px) {
@@ -289,6 +288,8 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   line-height: 56px;
   color: rgb(8, 240, 228);
+  top: -25px;
+  position: relative;
 }
 
 #hero p {
