@@ -298,15 +298,15 @@ h1, h2, h3, h4, h5, h6 {
   margin: 15px 0 0 0;
   font-size: 26px;
   font-family: "Poppins", sans-serif;
-  margin-bottom: 25px;
-  padding-bottom: 25px;
+  margin-bottom: 50px;
+  padding-bottom: 50px;
 }
 
 #hero p span {
   color: #ffffff;
   letter-spacing: 1px;
-  margin-bottom: 25px;
-  padding-bottom: 25px;
+  margin-bottom: 50px;
+  padding-bottom: 50px;
 }
 
 #hero .social-links {
