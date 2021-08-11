@@ -290,7 +290,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   line-height: 56px;
   color: rgb(6 245 235);
-  background-color: #000000;
+  background-color: #000000de;
   margin-bottom: 25px;
   padding-bottom: 25px;
   padding-top: 25px;
@@ -308,9 +308,12 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero p span {
   color: #ffffff;
+  background-color: #0ab3e661;
   letter-spacing: 1px;
   margin-bottom: 50px;
   padding-bottom: 50px;
+   padding-top: 25px;
+  margin-right: 50%;
 }
 
 #hero .social-links {
