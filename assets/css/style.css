@@ -298,7 +298,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero p {
-  width: 11%;
+    width: 11%;
     float: left;
     color: #000000;
     margin: 15px 0 0 0;
@@ -308,16 +308,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero p1 {
-  width: 11%;
-  
-  background-color: #00d0ff61;
-  color: #000000;
-  margin: 15px 0 0 0;
-  margin-left: 80%;
-  font-size: 26px;
-  font-family: "Poppins", sans-serif;
-  margin-bottom: 50px;
-  padding-bottom: 50px;
+    background-color: #00d0ff61;
+    color: #000000;
+    font-size: 26px;
+    font-family: "Poppins", sans-serif;
+    padding-bottom: 50px;
+    margin-top: 10px;
 }
 
 #hero p span {
