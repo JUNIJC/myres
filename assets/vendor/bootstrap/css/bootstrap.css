@@ -644,6 +644,7 @@ progress {
   padding-right: calc(var(--bs-gutter-x) / 2);
   padding-left: calc(var(--bs-gutter-x) / 2);
   margin-top: var(--bs-gutter-y);
+  justify-content: center;
 }
 
 .col {
