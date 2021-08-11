@@ -281,6 +281,8 @@ h1, h2, h3, h4, h5, h6 {
   top: 0;
   left: 0;
   right: 0;
+  margin-right: 50%;
+
 }
 
 #hero h1 {
@@ -289,8 +291,10 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   line-height: 56px;
   color: rgb(6 245 235);
+  background-color: #000000cc;
   margin-bottom: 25px;
   padding-bottom: 25px;
+  margin-left: 50%;
 }
 
 #hero p {
