@@ -305,6 +305,7 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 26px;
     font-family: "Poppins", sans-serif;
     margin-bottom: 50px;
+    white-space: normal;
 }
 
 #hero p1 {
@@ -315,6 +316,7 @@ h1, h2, h3, h4, h5, h6 {
     padding-bottom: 50px;
     margin-top: 10px;
     text-align: center;
+    white-space: normal;
 }
 
 #hero p span {
