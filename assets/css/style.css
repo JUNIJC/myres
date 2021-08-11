@@ -310,6 +310,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero p1 {
     background-color: #00d0ff61;
+    float: left;
     color: #000000;
     font-size: 26px;
     font-family: "Poppins", sans-serif;
