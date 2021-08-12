@@ -451,6 +451,17 @@ section {
 /*--------------------------------------------------------------
 # Facts
 --------------------------------------------------------------*/
+#inner {  
+  border: 1px solid black;
+}
+
+#outer {
+  border: 1px solid red;
+  width:100%;
+  display: flex;
+  justify-content: center;
+}
+
 .facts .count-box {
   padding: 30px 30px 25px 30px;
   margin-top: 30px;
