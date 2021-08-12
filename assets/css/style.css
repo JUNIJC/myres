@@ -456,7 +456,7 @@ section {
 }
 
 #outer {
-  border: 4px solid green;
+  border: 4px solid #0563bb;
   width:100%;
   display: flex;
   justify-content: center;
